@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    /* background-color: rgb(255, 249, 249); */
+    /* background-image: url(2022/1-5-2022.bmp); */
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     margin: 15px 30px;
+     font-size: 17px;
+     padding: 8px;
+}
+
+     header{
+        background-color: #aaffdc;
+        /* padding: 5px 20px 15px 20px; */
+        border: 2px solid black;
+        border-radius: 4px;
+     }
+     form{
+        background-color: #f2b0ff;
+        padding: 5px 20px 15px 20px;
+        border: 2px solid rgb(206, 22, 22);
+        border-radius: 4px;
+     }
+     ul{
+        background-color: #feffb7;
+        padding: 5px 20px 15px 20px;
+        border: 2px solid rgb(0, 0, 0);
+        border-radius: 4px;
+     }
